@@ -1,6 +1,6 @@
 # yuya-yuya
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuya-yuya&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuya-yuya&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuya-yuya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
