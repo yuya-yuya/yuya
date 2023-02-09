@@ -7,9 +7,6 @@
   <a href="https://github.com/yuya-yuya">
     <img height="20" src="https://img.shields.io/github/followers/yuya-yuya?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/yuya-yuya">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yuya-yuya?label=Reddit&logo=reddit&style=flat" />
-  </a>
   <a href="http://qiita.com/yuya-yuya">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuya-yuya/posts.svg" />
   </a>
