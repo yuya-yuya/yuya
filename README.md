@@ -13,7 +13,4 @@
   <a href="http://qiita.com/yuya-yuya">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yuya-yuya/posts.svg" />
   </a>
-  <//qiita.com/yuya-yuya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
-  </a>
 </p>
