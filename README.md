@@ -1,9 +1,5 @@
 # yuya-yuya
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/yuya-yuya/yuya-yuya/main/profile-summary-card-output/github/0-profile-details.svg" height="220px" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuya-yuya&show_icons=true" height="158px" />
 </a>
